@@ -124,4 +124,7 @@ Copyright (c) 2023 Kenlove Chereste
 
 Agradeço ao meu tutor `Claudio Piccolo Fernandes` pelo conhecimento.
 Os `visitantes` sejam bem vindo(as).
+
+O matérial de apoio e o plano de ensino se encontra-se na pasta de apoio.
+
 Para mais informação entre em contato com a administração da `Estacio` ou aqui `comigo`.
