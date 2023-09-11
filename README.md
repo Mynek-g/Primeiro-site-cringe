@@ -1,12 +1,11 @@
-# RPG0008 Meu Primeiro Site Cringe
 
-![capa logotipo-Estacio](https://github.com/Myloveken/Primeiro-site-cringe/assets/98883069/1d357dd8-511b-441e-8a16-16788789befb)
+# ![capa logotipo-Estacio](https://github.com/Myloveken/Primeiro-site-cringe/assets/98883069/1d357dd8-511b-441e-8a16-16788789befb)
+
+# RPG0008 Meu Primeiro Site Cringe
 
 ---
 
 Missão prática do primeiro nível de conhecimento do 2º Mundo do Curso Full-Stack da Universidade Estácio.
-
----
 
 🔗 [Project](#-project) - [Descriptions](#-descriptions) - [Objective](#-objective) - [Lightweight](#-lightweight) - [Download](#-download) - [Install](#-install) - [Property](#property) - [License](#licence).
 
@@ -80,9 +79,10 @@ acessar a guia do`Arquivo`clica em`code`escolhe a opção desejada para`clonar o
  Observação:  A melhor opção é a copiar do link HTTPS para fazer a instalação ou clonar um arquivo no github.
 
  ---
- Meus exemplos de procedimento a seguir:
 
- 1º Procedimento:
+## 🔎 Meus exemplos de procedimento
+
+### 1º Procedimento:
 
  Página Inicial - Menu - Home
 
@@ -90,14 +90,14 @@ acessar a guia do`Arquivo`clica em`code`escolhe a opção desejada para`clonar o
 
 A estrutura deste site foi definida de forma básica com `HTML5` a linguagem para `pt-br`os elementos `semânticos`com uma imagem de `logotipo próprio` e a área de `rodapé`incluido a informação de `copyright` etc.
 
-2º Procedimento:
+### 2º Procedimento:
 
 Página de Receitas
 
 ![ Receitas ](image-4.png)
 As receitas foram apresentas em `div`, organizadas no modo `flex` utilizando a barra de rolagem `vertical` `responsivo`.
 
-3º Procedimento:
+### 3º Procedimento:
 
 Página do cadastro
 
