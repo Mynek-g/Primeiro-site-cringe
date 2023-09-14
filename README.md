@@ -17,7 +17,7 @@ Implementação de um site voltado para o fornecimento de `Receitas Culinárias`
 
 ---
 
-## 📝 Descriptions
+## 📝 Description
 
 Para facilitar a implementação deste projeto nós precisamos:
 
@@ -45,11 +45,11 @@ Para atingirmos o nosso objetivo, recomendamos os seguintes tópicos:
 
 |Tecnologias| Atributos|
 |----------------|-----------------|
-| Computador | Com acesso à internet|
-| Visual Studio Code | Editor de código |
-| HTML CSS JavaScript | linguagens|
-| Navigador de internet | Chrome ou Firefox|
-| Bootstrap | Framework front-end |
+| Computador | Com acesso à Internet|
+| Visual Studio Code | Editor de Código |
+| HTML CSS JavaScript | Linguagens|
+| Navigador de Internet | Chrome ou Firefox|
+| Bootstrap | Framework Front-End |
 
 Segue os links para baixar as tecnologias que foram utilizadas:
 
