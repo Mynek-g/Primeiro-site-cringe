@@ -127,4 +127,4 @@ Os `visitantes` sejam bem vindo(as).
 
 O matérial de apoio e o plano de ensino se encontra-se na pasta de apoio.
 
-Para mais informação entre em contato com a administração da `Estacio` ou aqui `comigo`.
+Para mais informação entre em contato com a administração da `Estacio` o comigo.
